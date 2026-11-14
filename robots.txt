@@ -1,0 +1,3 @@
+# Site interne de Koncept Ambiance : ne pas indexer.
+User-agent: *
+Disallow: /
